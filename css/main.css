@@ -14,7 +14,8 @@ body {
 
 }
 
-.top {
+.Top {
+  background-color: white;
   font-size: 18px;
 }
 
@@ -26,4 +27,6 @@ body {
 
 .title2 {
   background-color: #ff8000;
+  border-radius: 25px;
+
 }
